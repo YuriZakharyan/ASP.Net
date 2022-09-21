@@ -9,7 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connect_Database", "..\Conn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YieldExample", "YieldExample\YieldExample.csproj", "{C7F6E876-3C95-49C6-BD7F-C10FACB6114A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApi", "TodoApi\TodoApi.csproj", "{139BE5BE-58DA-499A-85D8-2379ECA124E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoApi", "TodoApi\TodoApi.csproj", "{139BE5BE-58DA-499A-85D8-2379ECA124E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentsApiDemo", "StudentsApiDemo\StudentsApiDemo.csproj", "{DE98551B-CB02-4D7B-A916-8BFA423E89CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{139BE5BE-58DA-499A-85D8-2379ECA124E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{139BE5BE-58DA-499A-85D8-2379ECA124E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{139BE5BE-58DA-499A-85D8-2379ECA124E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE98551B-CB02-4D7B-A916-8BFA423E89CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE98551B-CB02-4D7B-A916-8BFA423E89CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE98551B-CB02-4D7B-A916-8BFA423E89CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE98551B-CB02-4D7B-A916-8BFA423E89CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
