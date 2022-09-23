@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YieldExample", "YieldExampl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoApi", "TodoApi\TodoApi.csproj", "{139BE5BE-58DA-499A-85D8-2379ECA124E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentsApiDemo", "StudentsApiDemo\StudentsApiDemo.csproj", "{DE98551B-CB02-4D7B-A916-8BFA423E89CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentsApiDemo", "StudentsApiDemo\StudentsApiDemo.csproj", "{DE98551B-CB02-4D7B-A916-8BFA423E89CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactsAPI", "ContactsAPI\ContactsAPI.csproj", "{E9F393EA-DC4B-4290-B613-943060D2B509}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{DE98551B-CB02-4D7B-A916-8BFA423E89CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE98551B-CB02-4D7B-A916-8BFA423E89CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE98551B-CB02-4D7B-A916-8BFA423E89CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9F393EA-DC4B-4290-B613-943060D2B509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9F393EA-DC4B-4290-B613-943060D2B509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9F393EA-DC4B-4290-B613-943060D2B509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9F393EA-DC4B-4290-B613-943060D2B509}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
